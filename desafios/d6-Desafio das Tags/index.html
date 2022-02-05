@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio da TAGS</title>
+    <Style>
+        
+
+        *{
+            margin:0px;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: bold;
+            
+        }
+        
+        h1{
+           padding:40px 30px 30px 20px; 
+        }
+
+        
+        #tag{
+
+            width: 40%;
+            box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.493);
+           
+        }
+        #paragrafo{
+
+            padding: 10px 0px 20px 5px;
+        }
+
+        .lista{
+
+            padding-bottom: 15px;
+            list-style: square;
+            
+        }
+        .cor{
+            background-color: black;
+        }
+
+        
+        abbr:hover::after {
+           
+            color: white;
+            background-color: rgb(117, 114, 114);
+            content: attr(title);
+            padding-left: 15px;
+}
+        
+
+    </Style>
+
+</head>
+<body>
+    <div id="tag">
+    <h1>Tags em HTML</h1
+        >
+    <p id="paragrafo">Em HTML5, podemos inserir elementos de acordo com a lista a seguir. Passe o mouse sobre os termos para descobrir qual tag deverá utilizar em cada caso.</p>
+    
+    <ul class="lista">
+
+    <li><p><abbr title="use a tag &lt;p&gt;">Parágrafos</abbr></p></li>
+    <li><p><abbr title="use a tag &lt;img&gt;">Imagens</abbr></p></li>
+    <li><p><abbr title="use a tag &lt;title&gt;">Títulos</abbr></p></li>
+    <li><p><abbr title="use a tag &lt;abbr&gt;">Abreviações</abbr></p></li>
+    <li><p><abbr title="use a tag &lt;code&gt;">Códigos-fonte</abbr></p></li>
+    <li><p><abbr title="use a tag &lt;ol&gt;">Listas Numeradas</abbr></p></li>
+    <li><p><abbr title="use a tag &lt;ul&gt;">Listas com demarcadores</abbr></p></li>
+    <li><p><abbr title="use a tag &lt;blockquote&gt;">Citações de Texto</abbr></p></li>
+    <li><p><abbr title="use a tag &lt;a&gt;">Hyperlinks</abbr></p></li>
+    
+ </ul>
+</div>  
+</body>
+</html>
