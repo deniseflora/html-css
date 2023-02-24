@@ -27,10 +27,18 @@
 
 ## Projeto Site Android
 
+![](https://img.shields.io/github/languages/top/deniseflora/html-css?style=plastic)
+![](https://img.shields.io/github/languages/count/deniseflora/html-css)
+![](https://img.shields.io/github/license/deniseflora/html-css)
+
 ![gifandroid](https://user-images.githubusercontent.com/98910258/221315060-0d3b974a-7803-4c02-a82f-cafa2624f41b.gif)
 
 
 ## Projeto Site Cordel
+
+![](https://img.shields.io/github/languages/top/deniseflora/html-css?style=plastic)
+![](https://img.shields.io/github/languages/count/deniseflora/html-css)
+![](https://img.shields.io/github/license/deniseflora/html-css)
 
 ![gifcordel](https://user-images.githubusercontent.com/98910258/221315151-c53d51b6-1965-471e-a0e9-a212a7c06304.gif)
 
