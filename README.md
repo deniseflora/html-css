@@ -1,6 +1,6 @@
 # Curso de HTML5 e CSS 3 do Curso em Vídeo
 
-Ministrado pelo professor Gustavo Guanabara do [Curso em Vídeo](https://www.cursoemvideo.com/), com aulas teóricas e práticas sobre os principais temas abaixo:
+:blue_book: Ministrado pelo professor Gustavo Guanabara do [Curso em Vídeo](https://www.cursoemvideo.com/), com aulas teóricas e práticas sobre os principais temas abaixo:
 
 - Funcionamento da Internet e trajetória, browsers, projetos de criação de site, hospedagem e responsividade.
 - Conceito do termo ***Hyper Text Markup Language (HTML)***, estrutura básica do HTML, significado Doctype, Charset e Lang. Hierarquia de títulos, tags e atributos, semântica, formatação dos textos, inserção de links, imagens, vídeos e audios listas, tabelas e formulários.
