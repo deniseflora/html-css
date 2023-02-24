@@ -25,6 +25,16 @@
 14. Desafio da Tabela de Notas Escolares
 
 
+## Projeto Site Android
+
+![gifandroid](https://user-images.githubusercontent.com/98910258/221315060-0d3b974a-7803-4c02-a82f-cafa2624f41b.gif)
+
+
+## Projeto Site Cordel
+
+![gifcordel](https://user-images.githubusercontent.com/98910258/221315151-c53d51b6-1965-471e-a0e9-a212a7c06304.gif)
+
+
 
 
 
