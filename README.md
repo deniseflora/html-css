@@ -24,10 +24,7 @@
 13. Desafio da Expansão de Tabelas 
 14. Desafio da Tabela de Notas Escolares
 
-## Projeto Android
 
-![Site Android](C:\Users\Denise\Documents\estudos\html-css\desafios\d10-Desafio Site Android\imagens\gifandroid.gif)
 
-## Projeto Cordel
 
-![Site Cordel](C:\Users\Denise\Documents\estudos\html-css\desafios\d12-Desafio do Cordel\imagens\gifcordel.gif).
+
