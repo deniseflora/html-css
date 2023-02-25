@@ -21,10 +21,16 @@
 10. Desafio site Android
 11. Desafio do Astronauta
 12. Desafio do Cordel Moderno (Efeito Parallax)
-13. Desafio da Expansão de Tabelas 
+13. Desafio da Expansão de Tabelas
 14. Desafio da Tabela de Notas Escolares
 
+## Site Android
 
+<img src=“gifandroid.gif”>
+
+## Site Cordel
+
+<img src=“gifcordel”>
 
 
 
