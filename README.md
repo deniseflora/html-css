@@ -24,7 +24,40 @@
 13. Desafio da Expansão de Tabelas
 14. Desafio da Tabela de Notas Escolares
 
+## Projeto Site Android
 
+- Layout
 
+- Demonstração
 
+- Funcionalidades do Projeto
 
+Projeto para o aprendizado de criação de site com html e css, aplicando a sintaxe das linguagens, como formatação do texto, inserção de links, listas personalizadas, multimídias, conteúdo responsivo,  e hospedagem do site no GitHub.
+
+- Tecnologias utilizada
+  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+- Autor
+  
+    Professor Gustavo Guanabara do [Curso em Vídeo](https://www.cursoemvideo.com/)
+
+## Projeto Cordel
+
+- Layout
+
+- Funcionalidades do Projeto
+  
+  Projeto proposto para o aprendizado da criação de um site com efeito parallax.
+
+- Tecnologias utilizada
+  
+  HTML5, CSS3, VSCode, Git e GitHub.
+
+- Autor
+
+Professor Gustavo Guanabara do [Curso em Vídeo](https://www.cursoemvideo.com/)
