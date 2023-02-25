@@ -24,13 +24,7 @@
 13. Desafio da Expansão de Tabelas
 14. Desafio da Tabela de Notas Escolares
 
-## Site Android
 
-<img src=“gifandroid.gif”>
-
-## Site Cordel
-
-<img src=“gifcordel”>
 
 
 
