@@ -27,7 +27,7 @@
 ## Projeto Site Android
 
 - Layout
-
+  
 - Demonstração
 
 - Funcionalidades do Projeto
@@ -42,9 +42,9 @@ Projeto para o aprendizado de criação de site com html e css, aplicando a sint
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- Autor
+- Autor :man_teacher:
   
-    Professor Gustavo Guanabara do [Curso em Vídeo](https://www.cursoemvideo.com/)
+Professor Gustavo Guanabara do [Curso em Vídeo](https://www.cursoemvideo.com/)
 
 ## Projeto Cordel
 
@@ -58,6 +58,6 @@ Projeto para o aprendizado de criação de site com html e css, aplicando a sint
   
   HTML5, CSS3, VSCode, Git e GitHub.
 
-- Autor
+- Autor :man_teacher:
 
 Professor Gustavo Guanabara do [Curso em Vídeo](https://www.cursoemvideo.com/)
