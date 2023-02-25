@@ -24,15 +24,16 @@
 13. Desafio da Expansão de Tabelas
 14. Desafio da Tabela de Notas Escolares
 
-## Projeto Site Android
+## Projeto Site 
+![GitHub top language](https://img.shields.io/github/languages/top/deniseflora/html-css)
+![GitHub language count](https://img.shields.io/github/languages/count/deniseflora/html-css)
+![GitHub](https://img.shields.io/github/license/deniseflora/html-css)
 
 - Layout
-  
-- Demonstração
 
 - Funcionalidades do Projeto
 
-Projeto para o aprendizado de criação de site com html e css, aplicando a sintaxe das linguagens, como formatação do texto, inserção de links, listas personalizadas, multimídias, conteúdo responsivo,  e hospedagem do site no GitHub.
+Projeto para o aprendizado de criação de site com html e css, aplicando a sintaxe das linguagens, como formatação do texto, inserção de links, listas personalizadas, multimídias, conteúdo responsivo.
 
 - Tecnologias utilizada
   
