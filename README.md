@@ -53,13 +53,23 @@ Professor Gustavo Guanabara do [Curso em Vídeo](https://www.cursoemvideo.com/)
 
 - Layout
 
+O objetivo desse desafio foi utilizar o CSS para criar o efeito de *parallax* em uma página Web. 
+>Segundo a [Wikpédia](https://www.wikipédia.com/), a ***Rolagem parallax*** é uma técnica em computação gráfica em que as imagens de plano de fundo movem-se
+mais lentamente que as imagens em primeiro plano, criando uma ilusão de profundidade em uma cena 2D e aumentando a sensação
+de imersão na experiência virtual.
+
+Abaixo está representado esse efeito:
+
+![cordel](https://user-images.githubusercontent.com/98910258/221373117-dda3cc1a-c658-4067-9d66-f3a9856f6487.gif)
+
+
 - Funcionalidades do Projeto
   
   Projeto proposto para o aprendizado da criação de um site com efeito parallax.
 
 - Tecnologias utilizada
   
-  HTML5, CSS3, VSCode, Git e GitHub.
+  ***HTML5**, ***CSS3***, ***VSCode***, ***Git*** e ***GitHub***.
 
 - Autor :man_teacher:
 
