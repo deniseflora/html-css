@@ -30,7 +30,7 @@
 ![GitHub](https://img.shields.io/github/license/deniseflora/html-css)
 
 - Layout
-
+  
 - Funcionalidades do Projeto
 
 Projeto para o aprendizado de criação de site com html e css, aplicando a sintaxe das linguagens, como formatação do texto, inserção de links, listas personalizadas, multimídias, conteúdo responsivo.
