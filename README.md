@@ -33,7 +33,6 @@
 
 ![android-img](https://user-images.githubusercontent.com/98910258/221367782-baf80a80-2cce-4e56-8b13-e16a8ebacdad.png)
 
-  
 - Funcionalidades do Projeto
 
 Projeto para o aprendizado de criação de site com html e css, aplicando a sintaxe das linguagens, como formatação do texto, inserção de links, listas personalizadas, multimídias, conteúdo responsivo.
