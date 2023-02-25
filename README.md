@@ -30,6 +30,9 @@
 ![GitHub](https://img.shields.io/github/license/deniseflora/html-css)
 
 - Layout
+
+![android-img](https://user-images.githubusercontent.com/98910258/221367782-baf80a80-2cce-4e56-8b13-e16a8ebacdad.png)
+
   
 - Funcionalidades do Projeto
 
